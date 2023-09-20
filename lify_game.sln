@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lify_game", "lify_game\lify_game.csproj", "{BB338BEB-9FD7-4288-A588-94D5B784BDAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB338BEB-9FD7-4288-A588-94D5B784BDAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB338BEB-9FD7-4288-A588-94D5B784BDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB338BEB-9FD7-4288-A588-94D5B784BDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB338BEB-9FD7-4288-A588-94D5B784BDAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C0AD86B-3D4D-4D17-B556-A5F66994FB50}
+	EndGlobalSection
+EndGlobal
